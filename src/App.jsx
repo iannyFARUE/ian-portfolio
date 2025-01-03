@@ -9,6 +9,7 @@ import Faqs from "./pages/faqs/Faqs";
 import Contact from "./pages/contact/Contact";
 import Footer from "./pages/footer/Footer";
 import FloatingNav from "./pages/floating-nav/FloatingNav";
+import "./App.css";
 
 function App() {
   return (

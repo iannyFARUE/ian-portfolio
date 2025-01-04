@@ -9,10 +9,10 @@ function Header() {
         <div className="header__profile">
           <img src={HeaderImage} alt="Header Portrait" />
         </div>
-        <h3>Hello, I 'm Ian Madhara</h3>
+        <h3>&#x1F44B; Hi, I 'm Ian </h3>
         <p>
-          I'm an AI/ML engineer
-          <span>Please </span>
+          I'm a Software and ML/ML engineer with a Master's degree in AI,
+          focusing on building intelligenet systems
         </p>
         <div className="header__cta">
           <a href="#contact" className="btn primary">

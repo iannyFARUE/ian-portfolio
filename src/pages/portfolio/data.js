@@ -15,8 +15,8 @@ const data = [
     image: Image1,
     title: "Project Title One (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const data = [
     title: "Project Title Two (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const data = [
     title: "Project Title Three (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const data = [
     title: "Project Title Four (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 5,
@@ -51,8 +51,8 @@ const data = [
     image: Image5,
     title: "Project Title Five (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 6,
@@ -60,8 +60,8 @@ const data = [
     image: Image6,
     title: "Project Title Six (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 7,
@@ -69,8 +69,8 @@ const data = [
     image: Image7,
     title: "Project Title Seven (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 8,
@@ -78,8 +78,8 @@ const data = [
     image: Image8,
     title: "Project Title Eight (Backend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
   {
     id: 9,
@@ -87,8 +87,8 @@ const data = [
     image: Image9,
     title: "Project Title Nine (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://ianmadhara.me",
+    github: "https://github.com/iannyfarue",
   },
 ];
 

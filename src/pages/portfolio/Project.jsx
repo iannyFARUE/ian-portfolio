@@ -15,7 +15,7 @@ const Project = ({ project }) => {
           target="_blank"
           rel="noopner noreferrer"
         >
-          Demo
+          Live Preview
         </a>
         <a
           href={project.github}

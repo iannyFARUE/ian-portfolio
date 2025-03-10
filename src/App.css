@@ -180,3 +180,61 @@ img {
     font-size: 2rem;
   }
 }
+
+/* Apply Flexbox to the entire page */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure #root and main content stretch */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Push the footer down */
+.container {
+  flex: 1;
+}
+
+/* THEME change using react */
+
+main.color-1 {
+  --primary-hue: 270;
+}
+
+main.color-2 {
+  --primary-hue: 110;
+}
+
+main.color-3 {
+  --primary-hue: 240;
+}
+
+main.color-4 {
+  --primary-hue: 325;
+}
+
+main.color-5 {
+  --primary-hue: 0;
+}
+
+main.color-6 {
+  --primary-hue: 55;
+}
+
+main {
+  --color-primary: hsl(var(--primary-hue), 89%, 41%);
+}
+
+main.bg-2 {
+  --black-lightness: 96%;
+  --dark-lightness: 60%;
+  --light-lightness: 12%;
+  --white-lightness: 6%;
+}

@@ -10,10 +10,14 @@ import Contact from "./pages/contact/Contact";
 import Footer from "./pages/footer/Footer";
 import FloatingNav from "./pages/floating-nav/FloatingNav";
 import "./App.css";
+import Modal from "./components/Modal";
+import Theme from "./theme/Theme";
+import { useThemeContext } from "./context/theme-context";
 
 function App() {
+  const { themeState } = useThemeContext();
   return (
-    <main>
+    <main className={`${themeState.primary} ${themeState.background}`}>
       <Navbar />
       <Header />
       <About />
@@ -23,7 +27,8 @@ function App() {
       <Faqs />
       <Contact />
       <Footer />
-      <FloatingNav />
+      {/* <FloatingNav /> */}
+      <Theme />
     </main>
   );
 }

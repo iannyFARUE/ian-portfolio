@@ -3,8 +3,6 @@ footer {
   padding-top: 8rem;
   box-shadow: 0 -1rem 1.5rem hsla(var(--primary-hue), 68%, 42%, 20%);
   transition: var(--transition);
-  position: relative;
-  bottom: 0;
 }
 
 footer .nav__menu {

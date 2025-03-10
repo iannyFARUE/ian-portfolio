@@ -3,8 +3,10 @@ import "./Navbar.css";
 import Logo from "../../assets/logo.jpg";
 import menuItems from "./menu";
 import { IoIosColorPalette } from "react-icons/io";
+import { useModalContext } from "../../context/modal-context";
 
 function Navbar() {
+  const { showModalHandler } = useModalContext();
   return (
     <nav>
       <div className="container nav__container">
@@ -18,7 +20,7 @@ function Navbar() {
             </li>
           ))}
         </ul>
-        <button id="theme__icon">
+        <button id="theme__icon" onClick={showModalHandler}>
           <IoIosColorPalette />
         </button>
       </div>
